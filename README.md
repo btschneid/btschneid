@@ -24,10 +24,6 @@ Hello! I'm a second-year student at the University of Michigan, majoring in Comp
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/btschneid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=btschneid&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/btschneid/Pathfinding-and-Sorting-Visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Pathfinding-and-Sorting-Visualizer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/btschneid/Trading-Engine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Trading-Engine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
