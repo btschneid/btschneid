@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Schneider
 =======================================================================================================================================
 
-Computer Science Major, Stats Minor @ University of Michigan
+Computer Science Major, Stats and Business Minor @ University of Michigan
 ------------------------------------------------------------
 
 Hello! I'm a third-year student at the University of Michigan, studying Computer Science and Statistics. I've had two work experiences in quantitative analysis and data engineering, giving me a strong foundation in these areas. I'm the Augmented Reality lead for the CLAWS project team at the University of Michigan, creating advanced augmented reality software for NASA astronauts. This experience has improved my technical and leadership skills fueling my passion for pushing technology boundaries. I'm enthusiastic about leveraging my academic and professional experiences to make meaningful contributions in a collaborative and innovative environment. I'm open to exploring new challenges and eager to see what opportunities lie ahead in the world of quantitative and software development.
