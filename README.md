@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Major, Stats and Business Minor @ University of Michigan
 ------------------------------------------------------------
 
-Hello! I'm a third-year student at the University of Michigan, studying Computer Science and Statistics. I've had two work experiences in quantitative analysis and data engineering, giving me a strong foundation in these areas. I'm the Augmented Reality lead for the CLAWS project team at the University of Michigan, creating advanced augmented reality software for NASA astronauts. This experience has improved my technical and leadership skills fueling my passion for pushing technology boundaries. I'm enthusiastic about leveraging my academic and professional experiences to make meaningful contributions in a collaborative and innovative environment. I'm open to exploring new challenges and eager to see what opportunities lie ahead in the world of quantitative and software development.
+Hello! I'm a senior at the University of Michigan, studying Computer Science and Statistics. I've had two work experiences in quantitative analysis and data engineering, giving me a strong foundation in these areas. I'm the Augmented Reality lead for the CLAWS project team at the University of Michigan, creating advanced augmented reality software for NASA astronauts. This experience has improved my technical and leadership skills fueling my passion for pushing technology boundaries. I'm enthusiastic about leveraging my academic and professional experiences to make meaningful contributions in a collaborative and innovative environment. I'm open to exploring new challenges and eager to see what opportunities lie ahead in the world of quantitative and software development.
 
-* 🌍  I'm based in New Jersey
+* 🌍  I'm based in New York City
 * ✉️  You can contact me at [bschn@umich.edu](mailto:bschn@umich.edu)
 * 🚀  I'm currently working on [CLAWS](http://claws.engin.umich.edu/)
 
