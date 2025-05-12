@@ -38,7 +38,7 @@ Hello! I'm a third-year student at the University of Michigan, studying Computer
 <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-  <a href="https://github.com/btschneid/Pathfinding-and-Sorting-Visualize">
+  <a href="https://github.com/btschneid/Pathfinding-and-Sorting-Visualizer">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Pathfinding-and-Sorting-Visualizer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
