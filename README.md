@@ -26,4 +26,21 @@ Hello! I'm a third-year student at the University of Michigan, studying Computer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/btschneid/Pathfinding-and-Sorting-Visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Pathfinding-and-Sorting-Visualizer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/btschneid/Trading-Engine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Trading-Engine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/btschneid/multiagent-pathfinding" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=multiagent-pathfinding&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/btschneid/Trading-Engine" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Trading-Engine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/btschneid/Pathfinding-and-Sorting-Visualize">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=btschneid&repo=Pathfinding-and-Sorting-Visualizer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br />
